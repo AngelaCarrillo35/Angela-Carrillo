@@ -1,0 +1,5 @@
+Archivo de texto de Angela Carrillo
+Actividades de manjos de archivos
+1 Abrir el archivo open()
+2 Leer el archivo y recorrerle
+3 Imprimir el contenido
